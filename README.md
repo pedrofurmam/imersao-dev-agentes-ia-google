@@ -48,5 +48,6 @@ Este notebook fornece uma estrutura completa para a criação de um agente de Se
 
 #Observações
 
--Necessário carregar os arquivos pdfs da pasta data no colab
+-Necessário carregar os arquivos pdfs da pasta data no colab.
+
 -Necessário gerar uma chave de API do Google Gemini em: [Google Ai Studio](https://aistudio.google.com/app/u/1/apikey?utm_source=website&utm_medium=referral&utm_campaign=Alura-may-25&pli=1)
